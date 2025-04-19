@@ -129,7 +129,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you use this code or methodology in your research, please cite:
 
 ```
-Tierney, D. (2023). Analyzing the relationship between demographic characteristics 
+Tierney, D. (2025). Analyzing the relationship between demographic characteristics 
 and GAA club success in Cork, Ireland.
 ```
 
