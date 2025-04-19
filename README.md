@@ -32,9 +32,10 @@ This repository contains code and documentation for analyzing the relationship b
 
 This repository contains code only and does not include the data used in the analysis. The analysis requires:
 
-1. **Small Area Population Statistics (SAPS)** from the Central Statistics Office (CSO) 2022 Census
-2. **Small Area (SA) boundary files** for Cork County and City
-3. **GAA club data** including locations and championship grades
+1. **Small Area Population Statistics (SAPS)** from the [Central Statistics Office (CSO) 2022 Census](https://www.cso.ie/en/census/census2022/census2022smallareapopulationstatistics/)
+2. **Small Area (SA) boundary files** for Cork County and City from [Tailte Eireann](https://data-osi.opendata.arcgis.com/datasets/osi::cso-small-areas-national-statistical-boundaries-2022-ungeneralised)
+3. **GAA club spatial data** from [GAA PitchFinder](https://github.com/ryanmcg2203/gaapitchfinder)
+4. **GAA club performance data** from [Cork GAA](https://gaacork.ie/championship22/)
 
 To use this codebase with your own data, please structure your data files according to the paths expected in the scripts (see `docs/data/data_flow.md`).
 
